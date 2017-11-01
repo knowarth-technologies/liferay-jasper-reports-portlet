@@ -1,0 +1,7 @@
+Bundle-Name: Jasper-report-api
+Bundle-SymbolicName: jasper-report-api
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.knowarth.report.api,\
+	com.knowarth.report.api.bean,\
+	com.knowarth.report.api.contants

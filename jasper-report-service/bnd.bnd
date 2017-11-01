@@ -1,0 +1,3 @@
+Bundle-Name: jasper-report-service
+Bundle-SymbolicName: jasper-report-impl
+Bundle-Version: 1.0.0
