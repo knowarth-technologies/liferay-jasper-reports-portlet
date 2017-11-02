@@ -5,7 +5,7 @@
 <p>Report Admin portlet in Liferay is sensitive and users need to navigate different pages in order to upload and download reports with jrxml files. Manually adding Keys and type of parameters increase possibility of errors in reports. Visibility of all the definitions of based on permissions is challenging.</p>
 
 <h2>Solution</h2>
-<p>Jasper Report Plug-in is configurable to choose between definitions based upon role’s view permission.Parameters will be fetched automatically from the jrxml file and it will generate input elements based on selected jrxml so we don’t have to add key and type of parameters manually.Jasper report plug-in is user-friendly because from single page we can generate, download and Preview reportJasper Report Plug-in is accessible to any user, even if user don’t have a any role or permissions. Admin has to add jrxml definition from Configuration. <a href="https://github.com/knowarth-technologies/liferay-jasper-reports-portlet/wiki">read more</a></p>
+<p>Jasper Report Plug-in is configurable to choose between definitions based upon role’s view permission.Parameters will be fetched automatically from the jrxml file and it will generate input elements based on selected jrxml so we don’t have to add key and type of parameters manually.Jasper report plug-in is user-friendly because from single page we can generate, download and Preview report.Jasper Report Plug-in is accessible to any user, even if user don’t have a any role or permissions. Admin has to add jrxml definition from Configuration. <a href="https://github.com/knowarth-technologies/liferay-jasper-reports-portlet/wiki">read more</a></p>
 
   <h3>Environment</h3>
   <ul>
